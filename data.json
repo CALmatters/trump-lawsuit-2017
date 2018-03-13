@@ -1,0 +1,267 @@
+[
+    {
+        "nickname": "No Funding for Sanctuaries",
+        "proper_title": "State of California v. U.S. Department of Justice and Office of Justice Programs",
+        "date": "2/7/2018",
+        "status": "Pending",
+        "topic": "Immigration",
+        "california_role": "Solo",
+        "case_summary": "After the Trump administration decided to cut off designated \"sanctuary\" jurisdictions from some federal law enforcement grants, California filed a Freedom of Information Act request to learn more about the decision. The Trump administration ignored the request and so California responded with a lawsuit."
+    },
+    {
+        "nickname": "Which Waters?",
+        "proper_title": "State of New York v. E. Scott Pruitt",
+        "date": "2/6/2018",
+        "status": "Pending",
+        "topic": "Environment",
+        "california_role": "Joining",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-sues-trump-administration-water-protection/",
+        "case_summary": "In 2015, the Obama administration expanded the number of water ways protected by federal environmental regulation. President Trump ordered his Environmental Protection Agency to review the law, which they did and then repealed. California, and a few other states, responded with a lawsuit."
+    },
+    {
+        "nickname": "The \"Fracking Rule\"",
+        "proper_title": "State of California v. Joseph Balash",
+        "date": "1/24/2018",
+        "status": "Pending",
+        "topic": "Environment",
+        "california_role": "Solo",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-sues-trump-administration-canceling-fracking-rules/",
+        "case_summary": "Late last year, the Trump administration repealed a 2015 Obama rule that put tighter restrictions on oil and gas drillers operating on Native American land. Attorney General Becerra argued that the federal regulators hadn't provided a good enough legal justification for the repeal and sued."
+    },
+    {
+        "nickname": "Net Neutrality",
+        "proper_title": "State of New York v. Federal Communiciations Commission",
+        "date": "1/16/2018",
+        "status": "Pending",
+        "topic": "Consumer Rights",
+        "california_role": "Joining",
+        "case_summary": "Last December, the Federal Communications Commission repealed an Obama-era \"net neutrality\" rule, which prevented internet service providers from selectively blocking or slowing down access to some websites over others. Twenty two states, including California, sued, arguing that the rule change was an overreach of the commission's power."
+    },
+    {
+        "nickname": "Methane Flare Follow Up",
+        "proper_title": "State of California v. United States Bureau of Land Management and Katharine S. MacGregor",
+        "date": "12/19/2017",
+        "status": "Won",
+        "topic": "Environment",
+        "california_role": "Leading",
+        "case_summary": "After losing a case to California and New Mexico over its failure to implement an Obama-era environmental rule on methane emissions, the BLM suspended a part of the new rule. California and New Mexico sued again."
+    },
+    {
+        "nickname": "Fraud at Corinthian Colleges",
+        "proper_title": "People of California v. U.S. Department of Education",
+        "date": "12/14/2017",
+        "status": "Pending",
+        "topic": "Consumer Rights",
+        "california_role": "Solo",
+        "case_summary": "Though a court found that thousands of former students at the for-profit Corinthian Colleges were entitled to debt relief, the federal Department of Education has yet to process their claims. Attorney General Becerra filed a lawsuit on behalf 38,000 Californians."
+    },
+    {
+        "nickname": "Smog Zones",
+        "proper_title": "State of California v. Scott Pruit",
+        "date": "12/5/2017",
+        "status": "Pending",
+        "topic": "Environment",
+        "california_role": "Leading",
+        "case_summary": "In 2015, the Obama administration announced new rules requires federal environmental regulators to identify areas of the country with polluted air. Despite an earlier court ruling, the EPA has yet to do so. California, plus 13 states and Washington D.C., sued."
+    },
+    {
+        "nickname": "Transgender Military Ban",
+        "proper_title": "Stockman v. Trump",
+        "date": "11/8/2017",
+        "status": "Pending",
+        "topic": "LGBTQ",
+        "california_role": "Joining",
+        "case_summary": "After President Trump announced a new ban on transgender servicemembers in the military, seven men and women sued the administration along with a group of LGBTQ rights organizations. The State of California has since joined the suit."
+    },
+    {
+        "nickname": "Checking in on ICE",
+        "proper_title": "Commonwealth of Massachusetts v. U.S. Department of Homeland Security",
+        "date": "10/17/2017",
+        "status": "Pending",
+        "topic": "Immigration",
+        "california_role": "Joining",
+        "case_summary": "Massachusetts, California, and eight other states requested information from the Department on Homeland Security to find out what exactly immigration enforcement officials are up to within their various jurisdictions. When the administration ignored the request, the states sued."
+    },
+    {
+        "nickname": "Gainful Employment Rule",
+        "proper_title": "State of Maryland v. U.S. Department of Education",
+        "date": "10/17/2017",
+        "status": "Pending",
+        "topic": "Consumer Rights",
+        "california_role": "Joining",
+        "case_summary": "Seventeen states sued the Department of Education for delaying the enactment of an Obama-era regulation requiring colleges to meet “accountability standards” based on student debt load, graduation rates, and post-graduate employment."
+    },
+    {
+        "nickname": "Royalty Rumble, Round 2",
+        "proper_title": "State of California v. U.S. Department of the Interior",
+        "date": "10/17/2017",
+        "status": "Pending",
+        "topic": "Other",
+        "california_role": "Leading",
+        "case_summary": "California and New Mexico sued the Trump administration for repealing a new method of calculating how much money energy companies must pay to state governments when they drill or mine on public land. The states argue that the Trump administration “failed to supply a reasoned basis” when it decided to overturn the rule."
+    },
+    {
+        "nickname": "Cost Sharing Reduction Payments",
+        "proper_title": "State of California v. Donald J. Trump",
+        "date": "10/13/2017",
+        "status": "Pending",
+        "topic": "Health Care",
+        "california_role": "Leading",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-asks-judge-force-trump-make-subsidy-payments-now/",
+        "case_summary": "The Affordable Care Act mandates that insurance companies offer low out-of-pocket cost plans to certain low earners. Since the law was enacted, the federal government has compensated insurance companies for this additional cost. When President Trump announced that his administration would no longer be making those payments, California and 17 other states plus Washington, D.C., sued."
+    },
+    {
+        "nickname": "Travel Ban, Round 3",
+        "proper_title": "State of Washington v. Trump",
+        "date": "10/11/2017",
+        "status": "Pending",
+        "topic": "Immigration",
+        "california_role": "Joining",
+        "case_summary": "After hitting a judicial wall the first two times, the Trump administration made a third attempt at a travel ban—it permanently blocks immigration from citizens of eight countries. California joins five other states in once again taking the policy to court."
+    },
+    {
+        "nickname": "Contraceptive Mandate",
+        "proper_title": "State of California v. Hargan",
+        "date": "10/6/2017",
+        "status": "Pending",
+        "topic": "Health Care",
+        "california_role": "Solo",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-sue-trump-undoing-obamacares-birth-control-mandate/",
+        "case_summary": "After the Trump administration made it easier for employers to deny their employees insurance coverage for contraception, California sued, alleging that it discriminated against women and violated the first amendment’s separation of church and state."
+    },
+    {
+        "nickname": "The Border Wall",
+        "proper_title": "People of the State of California v. United States of America",
+        "date": "9/20/2017",
+        "status": "Pending",
+        "topic": "Immigration",
+        "california_role": "Solo",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-takes-trumps-border-wall-court/",
+        "case_summary": "In a solo lawsuit, California claims that in waiving certain environmental laws in order to speed up construction of the much-promised international barrier on the Mexico border, the federal government violated state and federal environmental law, as well as the state’s “economic interests, procedural rights, and sovereignty.”"
+    },
+    {
+        "nickname": "Measuring Emissions",
+        "proper_title": "People of the State of California v. U.S. Department of Transportation",
+        "date": "9/20/2017",
+        "status": "Won",
+        "topic": "Environment",
+        "california_role": "Leading",
+        "trump_url": "https://calmatters.org/articles/trump_california/challenge-california-trump-reverses-suspension-climate-rule/",
+        "case_summary": "California and seven other states sued the administration for dragging its feet in implementing a new set of rules that would require transportation officials to track greenhouse gas emissions along national highways and set environmental sustainability performance goals. The Federal Highway Administration decided to enact the rule, but has since proposed repealing it."
+    },
+    {
+        "nickname": "Ending DACA",
+        "proper_title": "State of California v. U.S. Department of Homeland Security",
+        "date": "9/11/2017",
+        "status": "Pending",
+        "topic": "Immigration",
+        "california_role": "Leading",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-sue-trump-administration-canceling-deferred-action/",
+        "case_summary": "California filed a lawsuit with three other states after President Trump announced that he would be ending the Deferred Action for Childhood Arrivals program, which allowed those who entered the United States illegally as minors to remain on a temporary basis."
+    },
+    {
+        "nickname": "Fuel Economy",
+        "proper_title": "State of New York v. National Highway Traffic Safety Administration",
+        "date": "9/11/2017",
+        "status": "Pending",
+        "topic": "Environment",
+        "california_role": "Leading",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-sues-administration-enforce-fuel-efficiency-standards/",
+        "case_summary": "Five states sued the Trump administration’s National Highway Traffic Safety Administration for failing to enact a congressionally mandated rule that would have increased the penalty charged to car manufacturers for violating average-gas-mileage standards."
+    },
+    {
+        "nickname": "Sanctuary State Funding",
+        "proper_title": "State of California v. Sessions",
+        "date": "8/14/2017",
+        "status": "Pending",
+        "topic": "Immigration",
+        "california_role": "Solo",
+        "trump_url": "https://calmatters.org/articles/trump_california/state-sf-sue-trump-administration-sanctuary-funding-cuts/",
+        "case_summary": "California sued Trump's Justice Department after the administration announced plans to cut off designed “sanctuary” jurisdictions from certain federal funding programs unless they cooperate with federal immigration agents."
+    },
+    {
+        "nickname": "Conflict of Interest at the EPA",
+        "proper_title": "State of California v. U.S. Environmental Protection Agency",
+        "date": "8/11/2017",
+        "status": "Pending",
+        "topic": "Environment",
+        "california_role": "Solo",
+        "case_summary": "Before he was the head of the Environmental Protection Agency, Scott Pruitt was the Attorney General of Oklahoma, where he sued the EPA 14 times. Is he now helping draft rules related to the very suits he once filed? California Attorney General Becerra wanted to know, and when the EPA failed to produce the requested documents, he sued."
+    },
+    {
+        "nickname": "Ozone Rule",
+        "proper_title": "State of New York v. U.S. Environmental Protection Agency",
+        "date": "8/1/2017",
+        "status": "Won",
+        "topic": "Environment",
+        "california_role": "Joining",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-takes-environmental-protection-agency-failing-enforce-air-quality-rules/",
+        "case_summary": "One August 1, 15 states sued the Environmental Protection Agency for postponing a regulation designed to combat smog. On August 2, EPA chief Scott Pruitt reversed course."
+    },
+    {
+        "nickname": "Borrower Defense Rule",
+        "proper_title": "Commonwealth of Massachusetts v. U.S. Department of Energy",
+        "date": "7/6/2017",
+        "status": "Pending",
+        "topic": "Consumer Rights",
+        "california_role": "Joining",
+        "case_summary": "Nineteen states sued the Department of Education for refusing to enact a rule from 2016 intended to make it easier for students to have their loans forgiven if they attend colleges that engage in fraud."
+    },
+    {
+        "nickname": "Methane Waste Flare Up",
+        "proper_title": "State of California v. U.S. Bureau of Land Management",
+        "date": "7/5/2017",
+        "status": "Won",
+        "topic": "Environment",
+        "california_role": "Leading",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-wins-court-says-trump-administration-must-enforce-methane-rules/",
+        "case_summary": "Last November the Obama administration came up with a rule designed to limit methane emissions from oil and gas drilling operations on public land. The Trump administration didn’t implement the rule, so California and New Mexico sued, arguing that the feds were violating legal rulemaking processes. A judge sided with the states."
+    },
+    {
+        "nickname": "Freezers and Coolers and Boilers (Oh My)",
+        "proper_title": "State of California v. Perry",
+        "date": "6/13/2017",
+        "status": "Won",
+        "topic": "Environment",
+        "california_role": "Leading",
+        "trump_url": "https://calmatters.org/articles/trump_california/state-accuses-federal-agency-stalling-energy-efficiency-standards/",
+        "case_summary": "The Obama administration directed the Department of Energy to come up with new energy efficiency requirements for freezers, air conditioners, and other appliances. The Trump administration never got around to finalizing those rules, so California and ten other states sued."
+    },
+    {
+        "nickname": "Coal Lease Ban",
+        "proper_title": "State of California v. Zinke",
+        "date": "5/9/2017",
+        "status": "Pending",
+        "topic": "Environment",
+        "california_role": "Leading",
+        "case_summary": "California, along with three other states, sued the federal government after Interior Secretary Ryan Zinke repealed an Obama-era moratorium on leasing federal land for coal mining."
+    },
+    {
+        "nickname": "Royalty Rumble, Round 1",
+        "proper_title": "People of the State of California v. U.S. Department of the Interior",
+        "date": "4/26/2017",
+        "status": "Won",
+        "topic": "Other",
+        "california_role": "Leading",
+        "trump_url": "https://calmatters.org/articles/trump_california/california-sues-trump-administration-stop-delaying-oil-royalties/",
+        "case_summary": "Last year the Obama administration rolled out a new method for calculating how much money energy companies owe state governments for the right to drill or mine on public land. The Trump administration delayed implementation of the rule, so California and New Mexico sued. A district judge sided with the states—just in time for the Trump administration to repeal it outright."
+    },
+    {
+        "nickname": "Much Ado About Ceiling Fans",
+        "proper_title": "State of New York v. Perry",
+        "date": "3/31/2017",
+        "status": "Won",
+        "topic": "Environment",
+        "california_role": "Joining",
+        "case_summary": "In the final days of the Obama administration, the Department of Energy rolled out a series of new energy efficiency requirements for ceiling fans. The new rules were supposed to go into effect in March, but the Trump administration delayed. Then they delayed again. After 10 state attorneys general sued, the Department of Energy relented and OKed the standards."
+    },
+    {
+        "nickname": "Travel Ban, Round 2",
+        "proper_title": "State of Washington v. Trump",
+        "date": "3/13/2017",
+        "status": "On Hold",
+        "topic": "Immigration",
+        "california_role": "Joining",
+        "case_summary": "After the courts swatted down President Trump’s first travel ban, the White House issued a second, slightly less restrictive version hoping that it would pass legal muster. No such luck. In fact, there were so many separate challenges to the new ban that this case, filed by Washington’s Attorney General Bob Ferguson and five other states including California, didn’t even get its day in court. Once judges in Maryland and Hawaii put separate freezes on the new policy, this complaint was put on hold indefinitely."
+    }
+]

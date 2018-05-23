@@ -81,8 +81,8 @@
 
 	        // append context
 	        var link = '';
-	        if (data[i].trump_url !== undefined) {
-	            link = '<a href="' + data[i].trump_url + '" style="color:' + returnTopicColor(data[i].topic) + ';"> Read more about the lawsuit.</a>'
+	        if (data[i].trump_url !== '' ) {
+	            link = '<a href="' + data[i].trump_url + '" style="color:' + returnTopicColor(data[i].topic) + ';"> Read more about the lawsuit.</a>';	       		
 	        }
 
 	        // append summary
